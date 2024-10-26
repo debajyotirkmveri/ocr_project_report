@@ -1,0 +1,84 @@
+PS C:\Users\debaj\Desktop\csv_qs_image_infer> py .\ocr1.py    
+Enter the path to your PDF file: C:\Users\debaj\Desktop\csv_qs_image_infer\temp_Marketingstrategyandsustainbleplanofunilever.pdf
+Text extracted from images:
+ Page 1, Image 1 Text:
+
+Page 6, Image 1 Text:
+Market Segmentation of Unilever
+
+15-50 years
+Different life
+stages
+
+Man & Woman
+Low — Upper
+middle income
+
+
+Page 7, Image 1 Text:
+Product/Services People
+1. 170000Employees
+
+1. Dove
+Stu 2. Distributors
+5. Remi 3. Retailers
+RUE 4. Media personnel
+5. Pureit Process
+6. Colgate 1. BusinessPartnering &
+7. Surfexcel Mo Buying
+8. Rexona 2. CentralOperations
+9. Liptonete. 3. ChannelDevelopment
+— 4. ITintegration
+
+1. PersonalCare:$1-$25 Promotion hae Physical Evidence
+2. Home Care:$.5-§15 1. TVC In ABC, Fox, BBCetc. 1. Over150 countries 1. SaleinRetail stores
+3. Food:$.5-$10 2 as re 9 jean einage 2. Onlinesellalsoavailable
+z 3. NorthAmerica Colored Packets with
+3. Onlineadin eBay Snapdeal, itera)
+aikerdeal.com nen 4. Also available in plastic
+4 RadiostkeTriple Talos, bottles
+radioTodayetc 5. Unilever Logo andDesien
+5. Billboard
+
+6. Campaignetc.
+
+Page 8, Image 1 Text:
+Clients
+The customer wants better quality for
+personal care food and refreshment
+Y Age group:5-45
+¥ Income: Middletohigh
+
+Y Preference: Quality
+TARGET
+MARKET
+
+
+Page 9, Image 1 Text:
+
+Page 10, Image 1 Text:
+
+Page 11, Image 1 Text:
+Message
++ Ice creammakesyouhapoy
+|
++ Ice-cream with natural
+ingredients
+Media
++ TVC in NTV, Channel! ATN
+— Money news ete
+Mission + 80million DT total Measurement
++ 20% market marketing cost + NationaldailiesLike Nielsen Analysis of-
+shareby 1" year Prothom alo, Daily Star etc
++ 40 million 80T for + Digitalad Ratings
+* 200millinBOTL>} TvCandprint >| |. gittboardsinplaceswhere | |—>}
+insalesin1* medias large people cansee like + Consumer
+year Mohakhali Flyover, Gulshan Neuroscience
++ 30millionB0T for Eyenoa banitee
++ 50%market sponsorship. shopping malletc. + Radio Airplay and
+share by 3” Online streaming
+year + 10millionfor * Sponsoring cricket series
+others andother events
+‘>| « osm in retail outlets
++ FacebookandYouTube ads
+

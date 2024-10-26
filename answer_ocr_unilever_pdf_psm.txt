@@ -1,0 +1,103 @@
+PS C:\Users\debaj\Desktop\csv_qs_image_infer> py .\ocr_psm6.py
+Enter the path to your PDF file: C:\Users\debaj\Desktop\csv_qs_image_infer\temp_Marketingstrategyandsustainbleplanofunilever.pdf
+Text extracted from images:
+ Page 1, Image 1 Text:
+
+Page 6, Image 1 Text:
+Market Segmentation of Unilever
+| Geographic  Demographic  Psychographic  Behavioral |
+e B o i e it S i |
+i ¥ North America | ¥ 15-50 years 1 ¥ Believers Ef Benefits :
+{ ¥ Europe | Differentlife v Strivers !v Patterns :
+| ¥ SouthAmerica | stages { v Makers | ¥ Usagerate |
+Eﬂ" Middle East E‘/ Man & Woman E/ Thinkers Eg TR ___E
+'V SouthAsia ¥ Low-Upper | :
+| So middle income E
+H
+L TR
+
+Page 7, Image 1 Text:
+Product/ Services TeoMe
+e 1. 170000Employees
+P s 2. Distributors
+5. Knorr . b S eeeler=:
+2 iR - 4. Media persomnel
+5. Pureit Process
+Marerog
+6. Colgate 1. BusinessPartnering&
+7. surfexcel MO Buying
+& Rexona 2. CentralOperations
+5. Liptonetc 5. ChannelDevelopment
+— 4. Mintegration
+1. PersonalCare:§1-$25  Promotion Place Physical Evidence
+2. Home Care:$5-$15 1. TVCinABC, Fox, BBCetc. 1. Overi50courtries 1 SaleinRetail stores.
+3. Food:$:5-510 2. PrintadinTheSun Hindstan e 2. Onlinesellakoavaable
+simes; Protiomale; 5. NorthAmerica - ColoredPacketswith
+5. Onlineadin eBay,Snapdeal,
+= 4. South America TR0
+i & NG 4. Alsoavailable inplastic
+4. Radioslike Triplej Talksports,
+py 6. AsiaPacic ot
+radioTodayetc 5. Unilever Logo andDesign
+5. Billboard
+6. Campaignetc.
+
+Page 8, Image 1 Text:
+Clients
+The customer wants better quality for
+personal care food and refreshment
+v Agegroup: 5-45
+¥ Income: Middietohigh
+¥ Ppreference:Quality
+TARGET
+. MARKET
+
+Page 9, Image 1 Text:
+i)
+Axe sinsik Sighal
+rose 8 BB T suf 22 da T e Rama
+D i A N o )
+R st @ e 5K Sy foom,
+Kw PONBS é@"‘; G sirlllons g0y
+it Onfirt - IORAT, o
+T © S B
+Sosi %‘j_ o
+= €Y o
+= g = = 2 =
+o= _AXE @‘ o
+
+Page 10, Image 1 Text:
+S 5
+g. Bia-scence  Unilewer aigins in Fort Sunlight
+* Ig;qwmwwmww
+- R
+g,,,,,,)ms mmgum smgm, Freedam
+w2 i e
+- -
+D e "
+
+Page 11, Image 1 Text:
+Message
++ Ice cream makesyouhappy
++ Ice-creamith natural
+ingredients
+Media
++ TVCInNTY, Channell, ATN
+— Money newsetc
+Mission + 8omillion8DT total Measurement
+* 20%market marketing cost - NationaldailiesLike Nielsen Analysisof-
+shareby 1 year Prothomalo, Daily Star etc
++ s0millon BDTfor - DigitalAd Ratings
++ 200milion 80T Weandprit (> | . gillbosrisinplacesuhere | [~|
+insalesin1® medias large people cansee like. * Consumer
+vear MohakhalFiyover, Guishan Neuroscience
+- s0millon@Tfor e
+- S0%market ‘sponsorship. shopping malletc. « Radio Airplayand
+Shareby 3 Onlinestreaming
+year = 10millionfor * Sponsoring cricket series
+others and other events
++ POSMinretail outits
++ FacebookandYouTubeads
+
+
+PS C:\Users\debaj\Desktop\csv_qs_image_infer> 
